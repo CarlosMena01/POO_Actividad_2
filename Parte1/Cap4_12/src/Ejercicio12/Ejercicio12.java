@@ -1,5 +1,5 @@
 package Ejercicio12;
-
+// Importar Escaner
 import java.util.Scanner;
 
 public class Ejercicio12 {
