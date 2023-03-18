@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap3_18/Cap3_18.iml" filepath="$PROJECT_DIR$/Parte1/Cap3_18/Cap3_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap4_10/Cap4_10.iml" filepath="$PROJECT_DIR$/Parte1/Cap4_10/Cap4_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap4_12/Cap4_12.iml" filepath="$PROJECT_DIR$/Parte1/Cap4_12/Cap4_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap4_14/Cap4_14.iml" filepath="$PROJECT_DIR$/Parte1/Cap4_14/Cap4_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap4_22/Cap4_22.iml" filepath="$PROJECT_DIR$/Parte1/Cap4_22/Cap4_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Cap4_24/Cap4_24.iml" filepath="$PROJECT_DIR$/Parte1/Cap4_24/Cap4_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosPares.iml" filepath="$PROJECT_DIR$/EjerciciosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte1/Parte1.iml" filepath="$PROJECT_DIR$/Parte1/Parte1.iml" />
+    </modules>
+  </component>
+</project>
