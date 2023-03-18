@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08269aad-0515-46cf-aac9-a7c958e8fb89" name="Changes" comment="Ejercicios pares terminados">
-      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_20/Cap4_20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_20/src/Ejercicio20/Ejercicio20.java" afterDir="false" />
+    <list default="true" id="08269aad-0515-46cf-aac9-a7c958e8fb89" name="Changes" comment="Cap4_20 - Terminado">
+      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_24/Cap4_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_24/src/Ejercicio24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parte1/Cap4_20/Cap4_20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Parte1/Cap4_22/Cap4_22.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parte1/Cap4_20/src/Ejercicio20/Ejercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parte1/Cap4_22/src/Ejercicio22/Ejercicio22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +79,7 @@
       <updated>1679068213119</updated>
       <workItem from="1679068214167" duration="6101000" />
       <workItem from="1679092897170" duration="1885000" />
-      <workItem from="1679143484104" duration="316000" />
+      <workItem from="1679143484104" duration="1205000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios pares">
       <created>1679093011814</created>
@@ -100,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679094186519</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cap4_20 - Terminado">
+      <created>1679144079767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679144079767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +119,8 @@
     <MESSAGE value="Ejercicios pares" />
     <MESSAGE value="Ejercicio 14" />
     <MESSAGE value="Ejercicios pares terminados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios pares terminados" />
+    <MESSAGE value="Cap4_20 - Terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cap4_20 - Terminado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

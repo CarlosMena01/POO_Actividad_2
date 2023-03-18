@@ -1,8 +1,8 @@
-package Ejercicio20;
+package Ejercicio22;
 // Importar Escaner
 import java.util.Scanner;
 
-public class Ejercicio20 {
+public class Ejercicio22 {
 
     public static void main(String[] args) {
 
