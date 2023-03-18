@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08269aad-0515-46cf-aac9-a7c958e8fb89" name="Changes" comment="Ejercicios pares">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosPares.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parte1/Cap4_14/src/Ejercicio14/Ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parte1/Cap4_14/src/Ejercicio14/Ejercicio14.java" afterDir="false" />
+    <list default="true" id="08269aad-0515-46cf-aac9-a7c958e8fb89" name="Changes" comment="Ejercicios pares terminados">
+      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_20/Cap4_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parte1/Cap4_20/src/Ejercicio20/Ejercicio20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_directory_selection": "/Users/marianahernandez/IdeaProjects/EjerciciosPares/Parte1/Cap4_14/src",
+    "last_directory_selection": "/Users/marianahernandez/IdeaProjects/EjerciciosPares/Parte1/Cap4_20/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679068213119</updated>
       <workItem from="1679068214167" duration="6101000" />
-      <workItem from="1679092897170" duration="673000" />
+      <workItem from="1679092897170" duration="1885000" />
+      <workItem from="1679143484104" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios pares">
       <created>1679093011814</created>
@@ -89,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679093011814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio 14">
+      <created>1679093799735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679093799735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicios pares terminados">
+      <created>1679094186519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679094186519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +108,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios pares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios pares" />
+    <MESSAGE value="Ejercicio 14" />
+    <MESSAGE value="Ejercicios pares terminados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios pares terminados" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
